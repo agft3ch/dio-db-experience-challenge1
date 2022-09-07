@@ -1,9 +1,8 @@
 # Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
 
 > ### O projeto apresentado faz parte dos desafios da plataforma [Digital Innovation One](https://web.digitalinnovation.one/home), através do Database Experience Bootcamp.
-><br>
 >
-> ### E-Commerce
+> ### 💸 E-Commerce
 > - O cliente pode realizar N pedidos;
 > - No pedido contem vários produtos e o produto pode estar em vários pedidos;
 > - O produto pode estar em N estoques e os estoques possuem vários produtos;
@@ -16,7 +15,7 @@
     <strong>❯❯ 🚀 DESAFIO ↓</strong><br>
   </p>
 
-> ### Refinar o Projeto Conceitual de Banco de Dados: E-COMMERCE, nos seguintes pontos:
+> #### Refinar o Projeto Conceitual de Banco de Dados: E-COMMERCE, nos seguintes pontos:
 >
 > - Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
 > - Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
